@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+maven.zip
+apache-maven-3.9.6/
+.idea/
+*.iml
+.firebase/
