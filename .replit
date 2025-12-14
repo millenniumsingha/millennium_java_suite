@@ -1,0 +1,2 @@
+run = "mvn package -DskipTests && java -jar target/JavaShowcase-1.0.jar"
+entrypoint = "src/main/java/showcase/App.java"
